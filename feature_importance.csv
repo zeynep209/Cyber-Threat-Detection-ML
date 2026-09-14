@@ -1,0 +1,11 @@
+Feature,Importance
+employee_count,0.0758657166491438
+company_revenue_usd,0.07464040402872799
+quality_score,0.04610253111308118
+data_compromised_records,0.044979804292833964
+downtime_hours,0.04011291434418646
+confidence_tier,0.01762431469383812
+is_public_company,0.012931535289705283
+country_hq_US,0.011758975764096583
+attributed_group_Unknown,0.009771096524328043
+quality_grade_Silver,0.009730696355532281
